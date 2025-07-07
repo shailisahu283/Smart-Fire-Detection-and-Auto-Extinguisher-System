@@ -2,8 +2,7 @@
 
 An **Arduino Uno**-based real-time safety project that senses **temperature**, **gas**, and **light** levels to **automatically detect and extinguish fires** using a water pump and alert system. It is ideal for use in homes, labs, and industries where **real-time fire response is critical**.
 
-🔗 **[Tinkercad Simulation Project Link](https://www.tinkercad.com/things/your-project-link)** *(Replace this with your link)*
-
+🔗 **[Tinkercad Simulation Project Link](https://www.tinkercad.com/things/6RlD1wMv3Bi-smart-fire-detection-and-auto-extinguisher-system?sharecode=u-PO-R5tO7RxkcP3zWa5F9RO92UQc3yLnriXb1KtBdQ)** 
 ---
 
 ## 📚 Table of Contents
@@ -220,17 +219,16 @@ static void chase(uint32_t c) {
 
 1. **System in Safe State**
 
-   > ![Safe State Screenshot](images/safe_state.png)
+   > ![Safe State Screenshot](https://github.com/user-attachments/assets/17b6a2a3-1216-4444-8d24-9fd8adbf9855)
 
 2. **Fire Detected – Buzzer and Pump Activated**
 
-   > ![Alert State Screenshot](images/alert_state.png)
+   > ![Alert State Screenshot](https://github.com/user-attachments/assets/4cacedfa-ce90-45a4-8b78-d6806a374950)
 
 3. **TinkerCad Full Circuit Layout**
 
-   > ![Circuit Diagram](images/circuit_layout.png)
+   > ![Circuit Diagram](https://github.com/user-attachments/assets/95bd3a7d-1a6d-4245-b46e-3f671d245519)
 
-*(You can replace `images/filename.png` with actual screenshot paths or GitHub uploads)*
 
 ---
 
@@ -238,7 +236,6 @@ static void chase(uint32_t c) {
 
 I would like to express my heartfelt gratitude to:
 
-* 🎓 **Amrita Vishwa Vidyapeetham**, Bengaluru for academic support
 * 👨‍🏫 My professors and mentors who guided me through the logic
 * 💻 The creators of **Tinkercad**, **Arduino IDE**, and **open-source libraries**
 * 👨‍💻 GitHub and open-source contributors for documentation support
@@ -247,4 +244,4 @@ I would like to express my heartfelt gratitude to:
 
 ## 📎 Project Link
 
-🔗 **[Click here to run the TinkerCad Simulation](https://www.tinkercad.com/things/your-project-link)** *(Update with actual link)*
+🔗 **[Click here to run the TinkerCad Simulation](https://www.tinkercad.com/things/6RlD1wMv3Bi-smart-fire-detection-and-auto-extinguisher-system?sharecode=u-PO-R5tO7RxkcP3zWa5F9RO92UQc3yLnriXb1KtBdQ)** 
